@@ -1,11 +1,11 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "downloads": {
     "win": [],
     "linux": [
-      "https:/kaopizvn.sharepoint.com/:u:/r/sites/kaopiz-software/Shared%20Documents/06.%20KHN.D1/06.Public/2023_Tool/Code%20Generator/code-generator_1.4.1_linux_x86_64.AppImage",
-      "https:/kaopizvn.sharepoint.com/:u:/r/sites/kaopiz-software/Shared%20Documents/06.%20KHN.D1/06.Public/2023_Tool/Code%20Generator/code-generator_1.4.1_linux_x64.7z",
-      "https:/kaopizvn.sharepoint.com/:u:/r/sites/kaopiz-software/Shared%20Documents/06.%20KHN.D1/06.Public/2023_Tool/Code%20Generator/code-generator_1.4.1_linux_amd64.deb"
+      "https:/kaopizvn.sharepoint.com/:u:/r/sites/kaopiz-software/Shared%20Documents/06.%20KHN.D1/06.Public/2023_Tool/Code%20Generator/code-generator_1.4.2_linux_x86_64.AppImage",
+      "https:/kaopizvn.sharepoint.com/:u:/r/sites/kaopiz-software/Shared%20Documents/06.%20KHN.D1/06.Public/2023_Tool/Code%20Generator/code-generator_1.4.2_linux_x64.7z",
+      "https:/kaopizvn.sharepoint.com/:u:/r/sites/kaopiz-software/Shared%20Documents/06.%20KHN.D1/06.Public/2023_Tool/Code%20Generator/code-generator_1.4.2_linux_amd64.deb"
     ],
     "mac": []
   },
